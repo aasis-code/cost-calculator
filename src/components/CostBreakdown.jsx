@@ -302,7 +302,7 @@ export default function CostBreakdown({ breakdown, participants, onSave }) {
         </button>
       </div>
 
-      {/* ── Line Items ── */}
+      {/* ── Line Items Here ── */}
       <div className="card" style={{ padding: "16px 20px" }}>
         <div
           style={{

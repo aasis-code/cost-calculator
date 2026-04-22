@@ -21,7 +21,7 @@ import {
   SelectInput,
   Stepper,
   Toggle,
-} from "./ui";
+} from "./Ui";
 
 const REGION_OPTIONS = [
   { value: "other", label: "Other Regions" },
