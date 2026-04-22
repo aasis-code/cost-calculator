@@ -21,7 +21,7 @@ const DEFAULT_FORM = {
   ktmPkrTransport: "none",
   ktmPkrRoundTrip: false,
   pkrLocalTransport: "none",
-pkrLocalTransportReturn: "none",
+  pkrLocalTransportReturn: "none",
   ktmPkrFlight: 0,
   ktmLuklaFlight: 0,
   ktmMachhaKhola: false,
@@ -121,7 +121,7 @@ export default function App() {
         historyCount={history.length}
         onShowHistory={() => setShowHistory(true)}
       />
-      <main className="max-w-screen-xl mx-auto px-4 sm:px-6 py-6">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 py-6">
         <div style={{ marginBottom: 24 }}>
           <h1
             style={{
