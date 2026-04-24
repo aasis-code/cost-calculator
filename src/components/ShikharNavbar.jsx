@@ -362,7 +362,7 @@ function NepalTrekkingMega({ tab, setTab }) {
         width: "min(1272px, calc(100vw - 48px))",
       }}
     >
-      <div className="bg-white border border-slate-200 rounded-2xl shadow-2xl overflow-hidden flex h-[520px]">
+      <div className="bg-white border border-slate-200 rounded-[8px] shadow-2xl overflow-hidden flex h-[520px]">
         {/* ── Left sidebar ── */}
         <div className="w-[210px] shrink-0 flex flex-col py-6 px-4 bg-slate-50 border-r border-slate-200">
           <p className="text-xs font-bold uppercase tracking-wide text-slate-700 mb-3">
